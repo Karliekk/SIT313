@@ -1,3 +1,21 @@
 Copyright (c) 2017 NinaZhang, Email:nzhang@deakin.edu.au
 
-List View:http://ramsandroid4all.blogspot.com.au/search?q=Custom+ListViewData persistence:http://developer.android.com/reference/android/widget/ListView.htmlShared preferences:http://developer.android.com/guide/topics/data/data-storage.html#prefhttps://www.youtube.com/watch?v=n04qMWGzqQUUser Interface:http://www.rapidtables.com/web/color/RGB_Color.htm
+List View:
+
+http://ramsandroid4all.blogspot.com.au/search?q=Custom+ListView
+
+Data persistence:
+
+http://developer.android.com/reference/android/widget/ListView.html
+
+Shared preferences:
+
+http://developer.android.com/guide/topics/data/data-storage.html#pref
+
+https://www.youtube.com/watch?v=n04qMWGzqQU
+
+User Interface:
+
+http://www.rapidtables.com/web/color/RGB_Color.htm
+
+Thanks
