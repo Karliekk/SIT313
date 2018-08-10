@@ -1,5 +1,7 @@
 # SIT313
 # Description
+Installation and usage: You can run this App qith Android studio.
+
 The utility app will include two parts so far. 
 I will extend the App and provide more functions in the making process
 The first part will be calendar 
